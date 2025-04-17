@@ -18,6 +18,7 @@ A proof-of-concept for a Retrieval-Augmented Generation (RAG) system using Ollam
    ```bash
    streamlit run app/main.py
    ```
+![Description](https://github.com/user-attachments/assets/f0b84e3d-840e-483b-b01c-2dd64b282890)
 
 ## Features
 - Upload and process documents (PDF, DOCX, TXT, CSV, XLSX).
