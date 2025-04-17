@@ -41,8 +41,7 @@ A proof-of-concept for a Retrieval-Augmented Generation (RAG) system using Ollam
 5. Expand responses to view the knowledge graph and detailed reasoning.
 
 ## Author
-Grok (based on Claude's structure)
+Hazem Eissa
 
-## Date
-April 16, 2025
+
 ```
